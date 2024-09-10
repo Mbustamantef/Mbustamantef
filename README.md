@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Junior-FullStack
-🎓 Currently: I am pursuing a degree in System Analysis and exploring advanced topics in Data Science and Machine Learning.
-🌐 Languages: I speak English, Spanish, and Guarani.
+🔭 I’m currently working on Junior-FullStack <br>
+🎓 Currently: I am pursuing a degree in System Analysis and exploring advanced topics in Data Science and Machine Learning.<br>
+🌐 Languages: I speak English, Spanish, and Guarani.<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matibustaf_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-bustamante-5693a32ba) 
 
