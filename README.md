@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Junior-FullStack <br>
+🔭 I’m currently working on FullStack Developer <br>
 🎓 Currently: I am pursuing a degree in System Analysis and exploring advanced topics in Data Science and Machine Learning.<br>
 🌐 Languages: I speak English, Spanish, and Guarani.<br>
 ## 🌐 Socials:
